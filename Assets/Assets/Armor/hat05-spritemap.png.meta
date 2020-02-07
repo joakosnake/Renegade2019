@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 80e0cea16589dfd4ab3b4023ad1a2bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6473359119803219038
+    second: hat05-spritemap_0
+  - first:
+      213: 8818167414419121327
+    second: hat05-spritemap_1
+  - first:
+      213: -7294151963053426394
+    second: hat05-spritemap_2
+  - first:
+      213: 6235804185188522178
+    second: hat05-spritemap_3
+  - first:
+      213: 6561892858531556028
+    second: hat05-spritemap_4
+  - first:
+      213: 2188344613791332641
+    second: hat05-spritemap_5
+  - first:
+      213: -7372032601331825220
+    second: hat05-spritemap_6
+  - first:
+      213: 539972111551751260
+    second: hat05-spritemap_7
+  - first:
+      213: -2675256572666455924
+    second: hat05-spritemap_8
+  - first:
+      213: 8693024393716576203
+    second: hat05-spritemap_9
+  - first:
+      213: 5621119801857733048
+    second: hat05-spritemap_10
+  - first:
+      213: -2210335552857385174
+    second: hat05-spritemap_11
+  - first:
+      213: 3016284748902440178
+    second: hat05-spritemap_12
+  - first:
+      213: 7608421475596487924
+    second: hat05-spritemap_13
+  - first:
+      213: 980995076190130748
+    second: hat05-spritemap_14
+  - first:
+      213: -7499416367508201297
+    second: hat05-spritemap_15
+  - first:
+      213: 3401737312696149213
+    second: hat05-spritemap_16
+  - first:
+      213: 8380375376818605846
+    second: hat05-spritemap_17
+  - first:
+      213: 1064020173706053573
+    second: hat05-spritemap_18
+  - first:
+      213: -7455239268393449905
+    second: hat05-spritemap_19
+  - first:
+      213: 6840069288351786709
+    second: hat05-spritemap_20
+  - first:
+      213: 6535153785959952774
+    second: hat05-spritemap_21
+  - first:
+      213: -8058849619232559249
+    second: hat05-spritemap_22
+  - first:
+      213: 4390426085364046537
+    second: hat05-spritemap_23
+  - first:
+      213: 4020023858620205186
+    second: hat05-spritemap_24
+  - first:
+      213: -4349459113664896310
+    second: hat05-spritemap_25
+  - first:
+      213: 6517996318457887857
+    second: hat05-spritemap_26
+  - first:
+      213: 889913613263444584
+    second: hat05-spritemap_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat05-spritemap_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 189
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1b90b1549cda4ea1bae996bf4321e
+      internalID: 6473359119803219038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 187
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e84fc642bba934798bf0cb9d77751e
+      internalID: 8818167414419121327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bdd12616ecd1e4b84df9c0793a81e5
+      internalID: -7294151963053426394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 187
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8108e686579c8e245b33e0dbe2ba10f1
+      internalID: 6235804185188522178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 187
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86939ee380999047a597d7305211d0d
+      internalID: 6561892858531556028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 188
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e8df478c102d48a0484032cf45d45
+      internalID: 2188344613791332641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 187
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83aef676b9b7cf43b9dc1abb7752319
+      internalID: -7372032601331825220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 173
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe634401794a8449cd6d30e99b6d61
+      internalID: 539972111551751260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c11933b2b0ca4283621a3d3cee9cc
+      internalID: -2675256572666455924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 141
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd72c37c8bef6047bbd9b8bc7a0f231
+      internalID: 8693024393716576203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 141
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddebec5e36af934492a6503c6de7b33
+      internalID: 5621119801857733048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc553b4d4ac5741a6f090487c84ca0
+      internalID: -2210335552857385174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 141
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7cca0e26a1f7a4ebfdabd753994c0e
+      internalID: 3016284748902440178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 124
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ebdcbe7709a624ab0bfcf63050be17
+      internalID: 7608421475596487924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de527b551dc9074085eae56a60e3867
+      internalID: 980995076190130748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 78
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54a44ed425190468284e627916f43d
+      internalID: -7499416367508201297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 78
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4579c7316ef4d244866bbece826702d
+      internalID: 3401737312696149213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f650a10e021b4fbb289bb238a3340
+      internalID: 8380375376818605846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 78
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40410b8914ce507418bc7582143fddea
+      internalID: 1064020173706053573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 61
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27432dd3c82a1b4478832976b7bd77ca
+      internalID: -7455239268393449905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 34
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d33e7c25fc0449a941fd76a089ab3
+      internalID: 6840069288351786709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c97c7b78d6a24f883cc13849f2e0b
+      internalID: 6535153785959952774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 34
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec0f87b4988524b95b8041919a477a
+      internalID: -8058849619232559249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6cc29f6623e8c4fa2587eedf36e85e
+      internalID: 4390426085364046537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 34
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84fccb7220706a4cbf901775a59d941
+      internalID: 4020023858620205186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 33
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb938e9869e6644ac934dda620b931
+      internalID: -4349459113664896310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 34
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01860ddbc6f5e3b4ca274cf9065e580e
+      internalID: 6517996318457887857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat05-spritemap_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 34
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79998cda50a9996499f9ae9264166086
+      internalID: 889913613263444584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

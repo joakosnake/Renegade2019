@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: c30b463059ca3444bbc7bc7e89c244e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7453441099406406968
+    second: helm05-spritemap_0
+  - first:
+      213: 5340317183789894282
+    second: helm05-spritemap_1
+  - first:
+      213: -8530133599680400119
+    second: helm05-spritemap_2
+  - first:
+      213: -6524292864464380201
+    second: helm05-spritemap_3
+  - first:
+      213: 5897898288909488981
+    second: helm05-spritemap_4
+  - first:
+      213: 727439147249907527
+    second: helm05-spritemap_5
+  - first:
+      213: 6954614970675362246
+    second: helm05-spritemap_6
+  - first:
+      213: -6784368796807534269
+    second: helm05-spritemap_7
+  - first:
+      213: 8551672600130562207
+    second: helm05-spritemap_8
+  - first:
+      213: -5574584407906953692
+    second: helm05-spritemap_9
+  - first:
+      213: 1024666795506738768
+    second: helm05-spritemap_10
+  - first:
+      213: -7640491018976635394
+    second: helm05-spritemap_11
+  - first:
+      213: 7202212421065587669
+    second: helm05-spritemap_12
+  - first:
+      213: -6936803523991701111
+    second: helm05-spritemap_13
+  - first:
+      213: 8037594080104955899
+    second: helm05-spritemap_14
+  - first:
+      213: 8496594825592490038
+    second: helm05-spritemap_15
+  - first:
+      213: -7865666959718066670
+    second: helm05-spritemap_16
+  - first:
+      213: -7241064658143913453
+    second: helm05-spritemap_17
+  - first:
+      213: 5283383734819932213
+    second: helm05-spritemap_18
+  - first:
+      213: 2575550394597120770
+    second: helm05-spritemap_19
+  - first:
+      213: 8122500041228322707
+    second: helm05-spritemap_20
+  - first:
+      213: 7232860135564623879
+    second: helm05-spritemap_21
+  - first:
+      213: -8856467156941733835
+    second: helm05-spritemap_22
+  - first:
+      213: 4370303800483593253
+    second: helm05-spritemap_23
+  - first:
+      213: -4073016112211059915
+    second: helm05-spritemap_24
+  - first:
+      213: 3647836889426929740
+    second: helm05-spritemap_25
+  - first:
+      213: -3560653968679783625
+    second: helm05-spritemap_26
+  - first:
+      213: 1285904664873923614
+    second: helm05-spritemap_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: helm05-spritemap_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87edb84becd1f38469b3dec8f019e759
+      internalID: 7453441099406406968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 176
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a958bda6829d74296f03b0c6f97bcd
+      internalID: 5340317183789894282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 176
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de127c94e96ba4b99b29d6fe539db2
+      internalID: -8530133599680400119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 176
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c45eb3f7d1e247a4aec26fa7c8b23
+      internalID: -6524292864464380201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 176
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af6045227cc0784abbe255a57822357
+      internalID: 5897898288909488981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e39de5a1258154297de0d13585e3a0
+      internalID: 727439147249907527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 176
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aaf74db56132d4f94612db76f99445
+      internalID: 6954614970675362246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946e7cb9302d224e978046f22dc14c3
+      internalID: -6784368796807534269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 123
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed0f25efbb2c1f4c8894f8de46b8479
+      internalID: 8551672600130562207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bedd66988cc9f144b824aa78a6c4588
+      internalID: -5574584407906953692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 130
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a35f7e09d99c4398bdc7ba94ce109
+      internalID: 1024666795506738768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 130
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9437a2792c875440ad154e8b9c2e671
+      internalID: -7640491018976635394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 130
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a06fca3c381541b50ff244ea2f1aa
+      internalID: 7202212421065587669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92389442aa236d45ba6801ea27dc806
+      internalID: -6936803523991701111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b1a2e664ec4b4f8356aaf641cc2e8
+      internalID: 8037594080104955899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2e4c3cf44e874cabfad8bde17f60e
+      internalID: 8496594825592490038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 67
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281cf660829955a48ba44038f484b807
+      internalID: -7865666959718066670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4971ea703e65845ab02a7e19a8406a
+      internalID: -7241064658143913453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 67
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db41ab0e7492649ae1ed07d1db8d93
+      internalID: 5283383734819932213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e0c8e1e6beca4fb0d8c30dcac38a7
+      internalID: 2575550394597120770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c31d22f203724d966d881cc7b850e
+      internalID: 8122500041228322707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f130771550cda48a34c2134fd3d956
+      internalID: 7232860135564623879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d111968b9bfd64ca943bbefb4b1caf
+      internalID: -8856467156941733835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da45c8f993a69884381e4da2ef4a2710
+      internalID: 4370303800483593253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373e18bde958044468324e75714ab359
+      internalID: -4073016112211059915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 19
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c75236cbb7ab47a156919c3ee1794
+      internalID: 3647836889426929740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49337b34b4434e4e95cb2efa2193890
+      internalID: -3560653968679783625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helm05-spritemap_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 20
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0817cd2213d46ae41842fd7c53e1d217
+      internalID: 1285904664873923614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

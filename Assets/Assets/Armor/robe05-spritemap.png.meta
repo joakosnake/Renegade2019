@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 5bbf02a9ecdeedd4a9d068bc62ae4ef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2517551225466879291
+    second: robe05-spritemap_0
+  - first:
+      213: 3659636713956881950
+    second: robe05-spritemap_1
+  - first:
+      213: -4389987569914493726
+    second: robe05-spritemap_2
+  - first:
+      213: 1133827865910588170
+    second: robe05-spritemap_3
+  - first:
+      213: 3028694859191079262
+    second: robe05-spritemap_4
+  - first:
+      213: -3930912465596675625
+    second: robe05-spritemap_5
+  - first:
+      213: 4051639594604176234
+    second: robe05-spritemap_6
+  - first:
+      213: -4360008046576633945
+    second: robe05-spritemap_7
+  - first:
+      213: 600175564740831128
+    second: robe05-spritemap_8
+  - first:
+      213: -8213454283019437805
+    second: robe05-spritemap_9
+  - first:
+      213: -8829613802310100632
+    second: robe05-spritemap_10
+  - first:
+      213: -5682882534416449632
+    second: robe05-spritemap_11
+  - first:
+      213: -7048709563043592210
+    second: robe05-spritemap_12
+  - first:
+      213: -5136631327048109609
+    second: robe05-spritemap_13
+  - first:
+      213: -3612271624839839581
+    second: robe05-spritemap_14
+  - first:
+      213: 8439434996948354656
+    second: robe05-spritemap_15
+  - first:
+      213: 1457210706247605087
+    second: robe05-spritemap_16
+  - first:
+      213: -5282677459349074716
+    second: robe05-spritemap_17
+  - first:
+      213: -3835779593282328293
+    second: robe05-spritemap_18
+  - first:
+      213: 6134859432401880421
+    second: robe05-spritemap_19
+  - first:
+      213: 2208410562057557757
+    second: robe05-spritemap_20
+  - first:
+      213: 4304708928878744384
+    second: robe05-spritemap_21
+  - first:
+      213: -2632961711842301547
+    second: robe05-spritemap_22
+  - first:
+      213: 3990232866263638724
+    second: robe05-spritemap_23
+  - first:
+      213: -4164034902789585260
+    second: robe05-spritemap_24
+  - first:
+      213: 7728861554384104730
+    second: robe05-spritemap_25
+  - first:
+      213: -8886182360117079115
+    second: robe05-spritemap_26
+  - first:
+      213: -8985149677792670650
+    second: robe05-spritemap_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robe05-spritemap_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 153
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3065eba44c44764eabba7d97aa6afc7
+      internalID: -2517551225466879291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 152
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0fedadd09fa1419177135258fc255
+      internalID: 3659636713956881950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 154
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157cd3940921c6048b4a70b2d10ff7ca
+      internalID: -4389987569914493726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 154
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb74dc9ce32084d4482659dba6e0d61b
+      internalID: 1133827865910588170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 154
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcdc91264dd4ad4ca50a1afdc38a7b1
+      internalID: 3028694859191079262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 154
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111ef187c45f604cbfa19183626c57b
+      internalID: -3930912465596675625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 156
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4797485a2ce7842b2392030986c7c9
+      internalID: 4051639594604176234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 173
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deef4b6b454fc34ea9ce4f857b3913b
+      internalID: -4360008046576633945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 102
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474cf4d966640104db393014b11115f6
+      internalID: 600175564740831128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 102
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b5eb0ce9b08f4f94bd11bcde01aef
+      internalID: -8213454283019437805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 106
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e5f34eae5d464eb35ce179bda3178
+      internalID: -8829613802310100632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 108
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cdbfcde33cd54fba7e2614ee8df59
+      internalID: -5682882534416449632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 108
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764cc795bea91944be8c1f0aee9b3da
+      internalID: -7048709563043592210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 106
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b620b549efb440a65d1b4238a0bd4
+      internalID: -5136631327048109609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 56
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be0644c5654d342bafcd9d0ec1c2fe
+      internalID: -3612271624839839581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059ba8c383eff5a4293a3f9377cb6813
+      internalID: 8439434996948354656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199ed973e415ae499ba4a9bc3d47c81
+      internalID: 1457210706247605087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 52
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f9fa8e02fdca4a8a5703c54cc0a29
+      internalID: -5282677459349074716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 52
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122d87609cb098345acfc19e7893cfa4
+      internalID: -3835779593282328293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 52
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e92fcdeefd5d144ad002c1b1bb4894
+      internalID: 6134859432401880421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31ce77436ca74489c338a2d143d123
+      internalID: 2208410562057557757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dee0c5e418904243890465b52a1cabf
+      internalID: 4304708928878744384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70272dba78b63974ead61bb0a3bb9203
+      internalID: -2632961711842301547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6276d1b42db71489d46bc546f7193b
+      internalID: 3990232866263638724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15182d4913779054282e4457a18a8351
+      internalID: -4164034902789585260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 8
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff87f49caacbb4094341771899a974
+      internalID: 7728861554384104730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510348c4be191f042b910e606062709a
+      internalID: -8886182360117079115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robe05-spritemap_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 11
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381bd711849a39943ae19c55be8eb0ee
+      internalID: -8985149677792670650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

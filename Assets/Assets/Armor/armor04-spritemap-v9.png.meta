@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 8d58f1c009489eb4da1710a961834ca0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8109180596210712803
+    second: armor04-Idle
+  - first:
+      213: -7447979058529322012
+    second: armor04-Attack-1
+  - first:
+      213: 1241080469847330740
+    second: armor04-Attack-2
+  - first:
+      213: 5137414947672251989
+    second: armor04-Attack-3
+  - first:
+      213: -7352199137799462905
+    second: armor04-Attack-4
+  - first:
+      213: -3496719098815812557
+    second: armor04-Jump-1
+  - first:
+      213: -6707710253743780600
+    second: armor04-Jump-2
+  - first:
+      213: 6173853079391211210
+    second: armor04-Crouch
+  - first:
+      213: -5065574440774026817
+    second: armor04-spritemap-v9_8
+  - first:
+      213: 1420769354462427171
+    second: armor04-spritemap-v9_9
+  - first:
+      213: -9175625812754968155
+    second: armor04-spritemap-v9_10
+  - first:
+      213: -4782664932654960193
+    second: armor04-spritemap-v9_11
+  - first:
+      213: 6588415792538951489
+    second: armor04-spritemap-v9_12
+  - first:
+      213: -6186928171484899739
+    second: armor04-spritemap-v9_13
+  - first:
+      213: -7715570880905221630
+    second: armor04-spritemap-v9_14
+  - first:
+      213: -3844724522317899378
+    second: armor04-spritemap-v9_15
+  - first:
+      213: -5632244357716298607
+    second: armor04-spritemap-v9_16
+  - first:
+      213: 2822150687594882983
+    second: armor04-spritemap-v9_17
+  - first:
+      213: -8047999329085171410
+    second: armor04-spritemap-v9_18
+  - first:
+      213: -5231908170380753319
+    second: armor04-Slide
+  - first:
+      213: -6785838796469370766
+    second: armor04-Run-1
+  - first:
+      213: 7457241391258822680
+    second: armor04-Run-2
+  - first:
+      213: 8169819762769779225
+    second: armor04-Run-3
+  - first:
+      213: -7108033965636699250
+    second: armor04-Run-4
+  - first:
+      213: -5009479129165172178
+    second: armor04-Run-5
+  - first:
+      213: -9093923771935823422
+    second: armor04-Run-6
+  - first:
+      213: -8567799297771910649
+    second: armor04-Run-7
+  - first:
+      213: -3713785734271521389
+    second: armor04-Run-8
+  - first:
+      213: -8109180596210712803
+    second: armor04-Idle
+  - first:
+      213: 6173853079391211210
+    second: armor04-Crouch
+  - first:
+      213: -5231908170380753319
+    second: armor04-Slide
+  - first:
+      213: -6785838796469370766
+    second: armor04-Run-1
+  - first:
+      213: 7457241391258822680
+    second: armor04-Run-2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armor04-Idle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 175
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd15d80b5322124a839134177822725
+      internalID: -8109180596210712803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Attack-1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 174
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd95c68082c507d458aab8be3228297b
+      internalID: -7447979058529322012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Attack-2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 174
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d115201582220b41a9bb39efa999b56
+      internalID: 1241080469847330740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Attack-3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 174
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c569c8f6c8ea4fb0a041ac032c9bb
+      internalID: 5137414947672251989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Attack-4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 174
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f339a2185bd34db18ceb796076f83
+      internalID: -7352199137799462905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Jump-1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 176
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b4bb644492ddf4ea496f48f9c0f670
+      internalID: -3496719098815812557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Jump-2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 175
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c7527d165c614997e6c8f2c1931d0
+      internalID: -6707710253743780600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Crouch
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 164
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff063316baa18354780bde819c343820
+      internalID: 6173853079391211210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 123
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e83821eb8f3f4db2db874e0060e89
+      internalID: -5065574440774026817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e6248b62d6efb4085252636388376c
+      internalID: 1420769354462427171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed3803d5091c948a059799915cc0e4
+      internalID: -9175625812754968155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b01fd19cb26ac48ad4498368f8bc70
+      internalID: -4782664932654960193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 128
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a68af68e3cb644b04f4e1480f695d
+      internalID: 6588415792538951489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 115
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec0e3ffa13b8eb41987161391fbc937
+      internalID: -6186928171484899739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c3fee648a88784da16ecf990658834
+      internalID: -7715570880905221630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8b44f11462914f8e90136ea27c163
+      internalID: -3844724522317899378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0503b99590eadd4a86ab86877df22f3
+      internalID: -5632244357716298607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970f40b438ad285479b3b99d50c6a0af
+      internalID: 2822150687594882983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-spritemap-v9_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d0e78e5d8dc14bbbb4d75b912b0fb
+      internalID: -8047999329085171410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Slide
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342735936de67074fa3106efaba40c54
+      internalID: -5231908170380753319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 22
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e6265eab371f4e93bd8c3b9231508
+      internalID: -6785838796469370766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a1a7f2bd44cd4c83065d2f1939904
+      internalID: 7457241391258822680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a5cbd6fd1de740af8cb27a28f95e5
+      internalID: 8169819762769779225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 21
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9736f5ddb53e64d98e90ba9fb41c59
+      internalID: -7108033965636699250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3297e3325189d72469076e675650221f
+      internalID: -5009479129165172178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 21
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264779f4b5108b04b9c8fd68f43b7ab2
+      internalID: -9093923771935823422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b971fd6937f6b1408abfc9d85179b82
+      internalID: -8567799297771910649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor04-Run-8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3ac276de61814cbb71cb1d094760e
+      internalID: -3713785734271521389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
