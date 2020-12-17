@@ -7,15 +7,11 @@ public class PlayerMovements : MonoBehaviour
     Animator animator;
 
     //Run
-    public int runSpeed = 0;
-    public int walk = 2;
-    public int run = 4;
+    public int runSpeed = 3;
 
     float horizontal;
     float vertical;
     bool facingRight;
-    
-    int timesPress = 0;
 
     //Crouch
     bool isCrouching;
@@ -32,11 +28,33 @@ public class PlayerMovements : MonoBehaviour
     //Attack
     bool isAttacking;
 
+    //Clothes
+    public GameObject knight;
+    public GameObject wizard;
+
+    //Weapon
+    bool swordWeapon;
+    bool fireMagic;
+
+    //Magic
+    public Magic magic;
+
     void Awake()
     {
         animator = GetComponent<Animator>();
         rigidbody1 = GetComponent<Rigidbody2D>();
         rigidbody1.Sleep();
+
+        if (knight.activeSelf)
+        {
+            swordWeapon = true;
+            fireMagic = false;
+        }
+        else
+        {
+            swordWeapon = false;
+            fireMagic = true;
+        }
     }
 
     void Update()
@@ -72,24 +90,25 @@ public class PlayerMovements : MonoBehaviour
                 animator.SetBool("IsSliding", false);
         }
 
-        if (Input.GetButtonUp("Horizontal"))
-            timesPress = 1;
-        if (Input.GetButton("Horizontal") && timesPress == 1)
-            timesPress = 2;
-
-        if (timesPress == 2)
-            runSpeed = run;
-
-        if (horizontal == 0 && vertical == 0)
+        if(Input.GetKey("1"))
         {
-            timesPress = 0;
-            runSpeed = walk;
+            swordWeapon = true;
+            fireMagic = false;
+            wizard.SetActive(false);
+            knight.SetActive(true);
+        }
+        if(Input.GetKey("2"))
+        {
+            swordWeapon = false;
+            fireMagic = true;
+            knight.SetActive(false);
+            wizard.SetActive(true);
         }
     }
 
     void FixedUpdate()
     {
-        if (Input.GetButton("Fire1"))
+        if (Input.GetButton("Fire1") && !isJumping && swordWeapon)
         {
             isAttacking = true;
             if (vertical != 0 || horizontal != 0)
@@ -98,8 +117,19 @@ public class PlayerMovements : MonoBehaviour
                 horizontal = 0;
                 animator.SetFloat("Speed", 0);
             }
-
             animator.SetTrigger("SwordSlash");
+        }
+
+        if (Input.GetButton("Fire2") && !isJumping && fireMagic)
+        {
+            isAttacking = true;
+            if (vertical != 0 || horizontal != 0)
+            {
+                vertical = 0;
+                horizontal = 0;
+                animator.SetFloat("Speed", 0);
+            }
+            animator.SetTrigger("MagicFire");
         }
 
         if (transform.position.y <= axisY && isJumping)
@@ -126,8 +156,12 @@ public class PlayerMovements : MonoBehaviour
 
     public void AlertObservers(string message)
     {
-        if (message == "AttackEnded")
-            isAttacking = false;
+        if (message == "MagicFire")
+        {
+            magic.FireAttack(!facingRight);
+        }
+            
+        isAttacking = false;
     }
 
     private void Flip(float horizontal)
@@ -146,6 +180,7 @@ public class PlayerMovements : MonoBehaviour
     public void OnLanding()
     {
         isJumping = false;
+        //isAttacking = false;
         rigidbody1.gravityScale = 0f;
         rigidbody1.Sleep();
         axisY = transform.position.y;
